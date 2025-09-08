@@ -1,5 +1,3 @@
-<!-- Profile README for Deepanshu Singla -->
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepanshu+Singla;Full+Stack+Developer+%F0%9F%92%BB;Passionate+Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG"/>
 </h1>
@@ -121,21 +119,3 @@
 ⭐ From [deepanshusingla076](https://github.com/deepanshusingla076)</p>
 
 ---
-
-## 📫 Connect with Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/deepanshu-singla-519057335">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepanshu%20Singla-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:deepanshusingla0076@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Deepanshusingla0076%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge&logo=firefox" alt="Portfolio"/>
-  </a>
-</p>
-
----
-
-⭐ From [deepanshusingla076](https://github.com/deepanshusingla076)
