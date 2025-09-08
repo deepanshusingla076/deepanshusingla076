@@ -54,7 +54,7 @@
 
 ## 📊 GitHub Stats  
 
-![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepanshusingla076&show_icons=true&theme=tokyonight)  
+![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepanshusingla076&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,issues,contribs&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshusingla076&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=deepanshusingla076&theme=tokyonight)  
 
