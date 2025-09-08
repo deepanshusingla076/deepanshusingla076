@@ -1,19 +1,19 @@
 <!-- Profile README for Deepanshu Singla -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepanshu+Singla;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Deepanshu+Singla;Full+Stack+Developer+%F0%9F%92%BB;Passionate+Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG"/>
 </h1>
 
-<h3 align="center">🚀 Passionate Developer | 💡 Problem Solver | 📊 Data Enthusiast</h3>
+<h3 align="center">🚀 Passionate Developer | 💡 Problem Solver | 📊 Tech Enthusiast</h3>
 
 ---
 
 ## 🧑‍💻 About Me  
 
 - 🔭 Currently building **FiSight – AI-powered Financial Assistant**  
-- 🌱 Exploring **Spring Boot, Next.js, and Advanced Machine Learning**  
-- 👯 Open to collaborating on **AI/ML and Full-Stack projects**  
-- 💬 Ask me about **Java, Python, FastAPI, and AI**  
+- 🌱 Exploring **Spring Boot, Next.js, and Advanced Web Development**  
+- 👯 Open to collaborating on **Full-Stack projects**  
+- 💬 Ask me about **Java, Python, FastAPI, and Web Development**  
 - ⚡ Fun fact: I enjoy solving **LeetCode & hackathon challenges**  
 
 ---
@@ -52,13 +52,10 @@
 
 ## 🚀 Projects  
 
-### 🔗 With Links  
 - [FiSight](https://github.com/deepanshusingla076/FiSight.git) – AI-powered financial assistant with ML insights.  
 - [Quiz-apc](https://github.com/deepanshusingla076/Quiz-apc.git) – Quiz application with authentication & leaderboard.  
 - [Rizzard Backend](https://github.com/deepanshusingla076/rizzard_backend.git) – Backend APIs for a Rizzard app.  
 - [Code-Breakers](https://github.com/deepanshusingla076/Code-Breakers.git) – Team hackathon project for problem solving.  
-
-### 📌 Without Links  
 - **Smart Attendance System** – IoT project using **ESP32-CAM + AWS** for face recognition-based attendance.  
 - **Ultrasound Image Segmentation** – Medical AI project using **CNN for ultrasound images**.  
 - **Smart University Portal** – Web app for skill tracking & personalized learning resources.  
@@ -120,6 +117,8 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=deepanshusingla076&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/> 
 </p>
+
+⭐ From [deepanshusingla076](https://github.com/deepanshusingla076)</p>
 
 ⭐ From [deepanshusingla076](https://github.com/deepanshusingla076)</p>
 
