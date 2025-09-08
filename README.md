@@ -78,20 +78,42 @@
 - 🌐 Languages: **English, Hindi**  
 
 ---
-
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshusingla076&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github&hide_border=false" alt="GitHub Stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshusingla076&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" alt="Top Languages" height="180em"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=deepanshusingla076&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&rank_icon=github&hide_border=false" 
+    alt="GitHub Stats" 
+    height="180em" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshusingla076&layout=compact&langs_count=8&theme=tokyonight&hide_border=false" 
+    alt="Top Languages" 
+    height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepanshusingla076&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180em"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=deepanshusingla076&theme=tokyonight&hide_border=false" 
+    alt="GitHub Streak" 
+    height="180em" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshusingla076&theme=tokyonight&no-frame=false&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=deepanshusingla076&theme=tokyonight&no-frame=false&no-bg=true&margin-w=5" 
+    alt="GitHub Trophies" 
+    height="150em"/>
+</p>
+
+---
+
+## 🚀 Activity Graph  
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshusingla076&theme=tokyo-night&hide_border=false" 
+    alt="Contribution Graph" 
+    height="250em"/>
 </p>
 
 ---
