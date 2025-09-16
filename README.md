@@ -7,8 +7,6 @@
 
 ### 👨‍💻 About Me
 
-I'm a second-year Computer Science student at Chitkara University (2023–2027) with a strong passion for building robust full-stack applications. With a solid foundation in **Java**, **Python**, and **C++**, my current focus is on developing scalable backends with **Spring Boot** and creating dynamic user interfaces using **Next.js**.
-
 - 🔭 I’m currently developing **FiSight**, an AI-powered financial assistant.
 - 🌱 I’m deepening my expertise in **Spring Boot**, **Next.js**, and advanced cloud deployment on **AWS**.
 - 👯 I’m open to collaborating on challenging **Full-Stack projects** and open-source contributions.
