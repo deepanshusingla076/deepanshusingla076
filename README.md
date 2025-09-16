@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepanshu Singla</h1>
-<h3 align="center">A passionate Software Developer & Tech Enthusiast 🚀</h3>
+<h3 align="center">Passionate Software Developer & Tech Enthusiast 🚀</h3>
 
 ---
 
@@ -17,32 +17,8 @@
 
 ---
 
-## 👨‍💻 About Me  
-- 🌱 Currently learning **Spring Boot, Microservices, and Cloud**  
-- 💡 Interested in **AI, Machine Learning, and Scalable Systems**  
-- 💬 Ask me about **Java, Spring, Databases, and System Design**  
-- 📫 Reach me at **deepanshusingla0076@gmail.com**  
-- ⚡ Fun fact: I love solving **LeetCode problems & hackathon challenges**  
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deepanshusingla076&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
----
-
-## 🚀 Skills & Tools  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -68,6 +44,14 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=deepanshusingla076&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshusingla076&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
