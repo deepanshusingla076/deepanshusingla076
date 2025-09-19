@@ -1,13 +1,8 @@
 # <h1 align="center">👋 Hi, I'm Deepanshu Singla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0;Tech+Enthusiast+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%8C%90" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+%26+Next.js+Developer+⚡;Problem+Solver+%F0%9F%A7%A0;Tech+Enthusiast+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%8C%90" alt="Typing Animation" />
 </p>
-
-<p align="center">
-  <img src="https://i.imgur.com/A5ZRkOt.gif" width="300px" alt="Coding Animation" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
