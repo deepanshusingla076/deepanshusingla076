@@ -4,30 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+%26+Next.js+Developer+⚡;Problem+Solver+%F0%9F%A7%A0;Tech+Enthusiast+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%8C%90" alt="Typing Animation" />
 </p>
 
-## 👨‍💻 About Me
-
-* 🔭 Currently building **FiSight – AI-powered Financial Assistant**
-* 🌱 Exploring **Spring Boot, Next.js, and Cloud Computing**
-* 👯 Open to collaborating on **Full-Stack projects & Hackathons**
-* 💬 Ask me about **Java, Python, FastAPI, and Web Development**
-* ⚡ Fun fact: I love solving **LeetCode & hackathon challenges**
-
----
-
 ## 🎓 Education
 
 🎓 **B.E. in Computer Science Engineering** – *Chitkara University (2023–2027)*
-📊 CGPA: **9.12**
-
----
+📊 CGPA: **9.15**
 
 ## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,spring,react,nextjs,fastapi,git,github,docker,aws,mysql,postgres" />
 </p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -37,8 +23,6 @@
 * 🔹 **Smart Attendance System** – IoT face-recognition attendance with ESP32-CAM + AWS
 * 🔹 **Ultrasound Image Segmentation** – CNN-based medical AI project
 
----
-
 ## 🏅 Certifications
 
 ✔️ C Programming (Coursera)
@@ -47,36 +31,12 @@
 ✔️ Cloud Computing (Coursera)
 ✔️ 160 Days of Problem Solving (GeeksforGeeks)
 
----
-
 ## 🏆 Hackathons
 
 🏅 BharatTechperience 2.0
 🏅 Hackentine
 🏅 GDG Hacks
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshusingla076&show_icons=true&theme=radical&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshusingla076&layout=compact&theme=radical" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=deepanshusingla076&theme=radical" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshusingla076&theme=radical&margin-w=5&no-frame=false" height="150em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshusingla076&theme=react-dark&hide_border=false" height="250em"/>
-</p>
-
----
+🏅 Google Cloud Agentic AI Day
 
 ## 🌐 Connect with Me
 
