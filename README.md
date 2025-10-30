@@ -65,13 +65,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/deepanshu-singla-519057335">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepanshu%20Singla-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Deepanshu%20Singla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:deepanshusingla0076@gmail.com">
-    <img src="https://img.shields.io/badge/Email-deepanshusingla0076%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-deepanshusingla0076%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-orange?style=for-the-badge&logo=firefox" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
