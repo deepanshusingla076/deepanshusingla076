@@ -1,77 +1,86 @@
 <h1 align="center">👋 Hi, I'm Deepanshu Singla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+%26+Next.js+Developer+⚡;Problem+Solver+🧠;Tech+Enthusiast+🔥;Open+Source+Contributor+🌐" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=MERN+%26+Next.js+Developer+⚡;FastAPI+%26+Node.js+Backend+Engineer+🚀;Open+Source+Contributor+🌐;AI+%2F+Cloud+Tech+Learner+☁️" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🎓 Education
-
+## 🎓 Education  
 🎓 **B.E. in Computer Science Engineering** — *Chitkara University (2023–2027)*  
-📊 **CGPA:** 9.15
+📊 **CGPA:** 9.15  
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,spring,react,nextjs,fastapi,git,github,docker,aws,mysql,postgres" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,fastapi,mongodb,postgres,redis,java,python,cpp,git,github,aws,docker,linux,vscode" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects  
 
 | Project | Description |
-|----------|--------------|
-| [**FiSight**](https://github.com/deepanshusingla076/FiSight) | 💰 AI-powered financial assistant with ML-driven insights |
-| [**Quiz-apc**](https://github.com/deepanshusingla076/Quiz-apc) | 🧠 Quiz app featuring authentication & leaderboard |
-| [**Rizzard Backend**](https://github.com/deepanshusingla076/rizzard_backend) | ⚙️ Backend APIs for the Rizzard application |
+|----------|-------------|
+| [**FiSight**](https://github.com/deepanshusingla076/FiSight) | 💰 AI-powered financial assistant that provides ML-based insights and smart expense analysis |
+| [**Quiz-apc**](https://github.com/deepanshusingla076/Quiz-apc) | 🧠 Quiz application with authentication, leaderboard, and result tracking |
+| [**Rizzard Backend**](https://github.com/deepanshusingla076/rizzard_backend) | ⚙️ Backend APIs for Rizzard app with Node.js, FastAPI, and PostgreSQL |
 | **Smart Attendance System** | 📸 IoT-based face recognition attendance system using ESP32-CAM + AWS |
-| **Ultrasound Image Segmentation** | 🩺 CNN-based medical AI project for image segmentation |
+| **Ultrasound Image Segmentation** | 🩺 Deep learning model for ultrasound medical image segmentation using CNNs |
 
 ---
 
-## 🏅 Certifications
+## 🧩 Open Source & Community  
 
-- ✔️ **C Programming** — Coursera  
-- ✔️ **Python** — Coding Ninjas  
-- ✔️ **Blockchain Technology** — Coursera  
-- ✔️ **Cloud Computing** — Coursera  
-- ✔️ **160 Days of Problem Solving** — GeeksforGeeks  
-
----
-
-## 🏆 Hackathons
-
-- 🥇 **BharatTechperience 2.0**  
-- 🥈 **Hackentine**  
-- 🥉 **GDG Hacks**  
-- 💡 **Google Cloud Agentic AI Day**
+- 💻 Contributor in **GSSoC-EXT 2025**  
+- 🔍 Focused on improving backend security, logging, and validation in real-world OSS projects  
+- 🛠️ Believe in clean, type-safe, and maintainable code  
+- 💬 Actively open issues, fix bugs, and help improve community projects  
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Certifications  
+
+- 🎓 **C Programming** — Coursera  
+- 🐍 **Python** — Coding Ninjas  
+- ⛓️ **Blockchain Technology** — Coursera  
+- ☁️ **Cloud Computing** — Coursera  
+- 💪 **160 Days of Problem Solving** — GeeksforGeeks  
+
+---
+
+## 🏆 Hackathons  
+
+- 🥇 **BharatTechperience 2.0** — Winner  
+- 🥈 **Hackentine** — Runner-Up  
+- 🥉 **GDG Hacks** — Finalist  
+- 💡 **Google Cloud Agentic AI Day** — Participant  
+
+---
+
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deepanshusingla076&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshusingla076&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepanshusingla076&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshusingla076&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://streak-stats.demolab.com?user=deepanshusingla076&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepanshu-singla-519057335">
-    <img src="https://img.shields.io/badge/LinkedIn-Deepanshu%20Singla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/deepanshu-singla-519057335" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepanshu%20Singla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:deepanshusingla0076@gmail.com">
-    <img src="https://img.shields.io/badge/Email-deepanshusingla0076%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Email-deepanshusingla0076%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -84,5 +93,6 @@
 ---
 
 <p align="center">
-  ⭐ From <a href="https://github.com/deepanshusingla076">deepanshusingla076</a>
+  ✨ “Code. Learn. Contribute. Repeat.”  
+  <br>⭐ From <a href="https://github.com/deepanshusingla076">deepanshusingla076</a>
 </p>
