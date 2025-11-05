@@ -34,9 +34,9 @@
 
 ## 🧩 Open Source & Community  
 
-- 💻 Contributor at **GSSoC-EXT 2025**  
-- 🔍 Focused on enhancing backend architecture, logging, and API validation  
-- 🧠 Love exploring scalable systems and real-world open-source collaboration  
+- 💻 Contributor at **GSSoC 2025 (GirlScript Summer of Code)**  
+- 🔍 Focused on enhancing backend architecture, API validation, and documentation  
+- 🧠 Passionate about scalable systems and impactful open-source collaboration  
 - 💬 Regularly open issues, submit PRs, and assist in code reviews  
 
 ---
@@ -53,9 +53,9 @@
 
 ## 💡 Participation & Learning  
 
-- 🧩 **Hackathons & Events:** Participated in multiple hackathons and cloud events for learning and networking  
+- 🧩 Participated in multiple hackathons and cloud events  
 - ☁️ **Google Cloud Agentic AI Day** — Participant  
-- 🌍 Constantly learning about AI integration, cloud, and system design  
+- 🌍 Continuously learning about AI integration, system design, and cloud scaling  
 
 ---
 
@@ -80,6 +80,16 @@
   </a>
   <a href="mailto:deepanshusingla0076@gmail.com">
     <img src="https://img.shields.io/badge/Email-deepanshusingla0076%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🌐 Portfolio  
+
+<p align="center">
+  <a href="https://deepanshu-singla.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-deepanshu--singla.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Link" />
   </a>
 </p>
 
