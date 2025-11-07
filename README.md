@@ -34,6 +34,10 @@
 
 ## 🧩 Open Source & Community  
 
+<p align="center">
+  <img src="https://github.com/deepanshusingla076/deepanshusingla076/blob/main/Contributors%20badge.jpg" width="200" alt="GSSoC 2025 Badge" />
+</p>
+
 - 💻 Contributor at **GSSoC 2025 (GirlScript Summer of Code)**  
 - 🔍 Focused on enhancing backend architecture, API validation, and documentation  
 - 🧠 Passionate about scalable systems and impactful open-source collaboration  
