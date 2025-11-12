@@ -8,15 +8,14 @@
 
 ## 👨‍💻 About Me  
 
-I’m **Deepanshu Singla**, a **Computer Science Engineering student at Chitkara University (CGPA: 9.15)**, passionate about transforming ideas into impactful digital products.  
+I’m **Deepanshu Singla**, a **Full-Stack Developer** and **Computer Science student at Chitkara University (CGPA: 9.15)**.  
 
-As a **Full-Stack Developer**, I build scalable and user-focused web applications using **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, and **Firebase** — always aiming for clean architecture and seamless performance.  
+I specialize in building **scalable backend systems** and **intuitive web apps** using **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, and **Firebase**.  
+With solid foundations in **Java**, **C++**, **Python**, and **SQL**, I focus on writing clean, performant, and maintainable code.  
 
-My strong background in **Java**, **C++**, **Python**, and **SQL** enables me to design efficient, logical solutions that emphasize both speed and maintainability.  
+Currently, I’m enhancing my **Java DSA** skills and exploring **AI-driven backend systems** to create smarter and faster applications.  
 
-Currently, I’m strengthening my **DSA skills in Java** and exploring how **AI-driven systems** can make applications smarter, faster, and more adaptive.  
-
-🚀 **Goal:** To engineer innovative, scalable software that blends creativity, intelligence, and performance — while continuously learning and evolving as a developer.
+🚀 **Goal:** To craft impactful, production-ready software that merges innovation with reliability.
 
 ---
 
@@ -39,35 +38,35 @@ Currently, I’m strengthening my **DSA skills in Java** and exploring how **AI-
 ## 🚀 Featured Projects  
 
 ### [AetherMeet](https://aethermeet-web.onrender.com) — *Real-Time Messaging Platform*  
-Secure and scalable chat app with real-time communication and ephemeral storage.  
+Secure, real-time chat platform with ephemeral message storage and strong auth.  
 **Stack:** Node.js · Express · MongoDB · Socket.IO · JWT · Helmet.js  
 **🔗 Live:** [aethermeet-web.onrender.com](https://aethermeet-web.onrender.com)
 
 ---
 
 ### [FiSight](https://github.com/deepanshusingla076/FiSight) — *AI Financial Assistant*  
-ML-powered personal finance tracker offering smart insights and analytics.  
+ML-powered personal finance tracker offering insights and analytics.  
 **Stack:** React · FastAPI · MongoDB  
 **🔗 Repo:** [github.com/deepanshusingla076/FiSight](https://github.com/deepanshusingla076/FiSight)
 
 ---
 
 ### [Quiz-apc](https://github.com/deepanshusingla076/Quiz-apc) — *Gamified Quiz Application*  
-Interactive quiz platform with authentication, leaderboard, and real-time scoring.  
+Interactive quiz app with authentication, leaderboard, and real-time scoring.  
 **Stack:** React · Node.js · Express · MongoDB  
 **🔗 Repo:** [github.com/deepanshusingla076/Quiz-apc](https://github.com/deepanshusingla076/Quiz-apc)
 
 ---
 
 ### [Rizzard Backend](https://github.com/deepanshusingla076/rizzard_backend) — *API Backend Service*  
-Backend for Rizzard app handling authentication, content management, and APIs.  
+Backend for Rizzard app handling authentication and content APIs.  
 **Stack:** FastAPI · Node.js · MongoDB  
 **🔗 Repo:** [github.com/deepanshusingla076/rizzard_backend](https://github.com/deepanshusingla076/rizzard_backend)
 
 ---
 
 ### Smart Attendance System — *IoT Face Recognition*  
-Cloud-connected IoT solution for attendance tracking using ESP32-CAM + AWS.  
+IoT-based face recognition attendance system using ESP32-CAM + AWS.  
 **Stack:** Python · AWS · OpenCV  
 
 ---
@@ -75,12 +74,12 @@ Cloud-connected IoT solution for attendance tracking using ESP32-CAM + AWS.
 ## 🧩 Open Source & Community  
 
 <p align="center">
-  <img src="https://github.com/deepanshusingla076/deepanshusingla076/blob/main/Contributorsbadge.jpg" width="200" alt="GSSoC 2025 Badge" />
+  <img src="https://github.com/deepanshusingla076/deepanshusingla076/blob/main/Contributors%20badge.jpg" width="200" alt="GSSoC 2025 Badge" />
 </p>
 
 - 💻 Contributor at **GSSoC 2025 (GirlScript Summer of Code)**  
 - 🧠 Focused on backend architecture, validation, and error handling improvements  
-- 🌍 Active participant in open-source projects and community initiatives  
+- 🌍 Active participant in open-source projects and developer communities  
 
 ---
 
