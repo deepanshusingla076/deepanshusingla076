@@ -75,7 +75,7 @@ Cloud-connected IoT solution for attendance tracking using ESP32-CAM + AWS.
 ## 🧩 Open Source & Community  
 
 <p align="center">
-  <img src="https://github.com/deepanshusingla076/deepanshusingla076/blob/main/Contributors%20badge.jpg" width="200" alt="GSSoC 2025 Badge" />
+  <img src="https://github.com/deepanshusingla076/deepanshusingla076/blob/main/Contributorsbadge.jpg" width="200" alt="GSSoC 2025 Badge" />
 </p>
 
 - 💻 Contributor at **GSSoC 2025 (GirlScript Summer of Code)**  
