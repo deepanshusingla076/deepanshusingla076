@@ -14,55 +14,89 @@
 
 ## 💻 Tech Stack  
 
-### 🖥️ Frontend
+### 🚀 Core Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Frontend Tech" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,java" alt="Backend Tech" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,express,python,typescript,js,java" /></a>
 </p>
 
 ### 🗄️ Databases & Caching
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Databases" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" /></a>
 </p>
 
-### ☁️ DevOps & Cloud
+### ☁️ Cloud, DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux" alt="DevOps & Cloud" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,git,github,linux,vscode" /></a>
 </p>
 
-### 🧰 Tools & Others
+### 🧠 Libraries & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,cpp" alt="Tools" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-E34F26?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bcrypt-002C3E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Helmet.js-339933?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Projects  
+## 🚀 Featured Projects  
 
-| Project | Description |
-|----------|-------------|
-| [**FiSight**](https://github.com/deepanshusingla076/FiSight) | 💰 **AI-powered financial assistant** offering ML-driven insights and smart expense tracking. Built with React, FastAPI, and MongoDB for intelligent analytics and secure data visualization. |
-| [**AetherMeet**](https://aethermeet-web.onrender.com) | 💬 **Real-Time Ephemeral Messaging Platform** — built with Node.js, Express, MongoDB, and Socket.IO. Features 8+ socket events and 50+ REST APIs for messaging, voting, and media sharing. Optimized with TTL indexes for automatic 30-day cleanup while retaining infinite history. Secured using Helmet.js, JWT + bcrypt auth, rate limiting, sanitization, and file validation. |
-| [**Quiz-apc**](https://github.com/deepanshusingla076/Quiz-apc) | 🧠 **Interactive quiz platform** featuring authentication, leaderboard, and result tracking. Designed with React, Node.js, and MongoDB for smooth performance and scalability. |
-| [**Rizzard Backend**](https://github.com/deepanshusingla076/rizzard_backend) | ⚙️ **Backend APIs** powering the Rizzard app with Node.js, FastAPI, and PostgreSQL. Includes JWT-based authentication and optimized query handling. |
-| **Smart Attendance System** | 📸 **IoT-based face recognition attendance system** using ESP32-CAM and AWS for real-time verification and cloud storage. |
+### [AetherMeet](https://aethermeet-web.onrender.com) — *Real-Time Ephemeral Messaging Platform*  
+A secure and scalable chat platform with **real-time messaging**, **voting**, and **media sharing** features.  
+- Built **8+ Socket.IO events** and **50+ REST APIs** for seamless interaction.  
+- Integrated **MongoDB TTL indexes** for auto-cleanup while retaining message history.  
+- Implemented multi-layered security: **Helmet.js**, **JWT + bcrypt**, rate limiting, and input sanitization.  
+**🧰 Tech:** Node.js · Express · MongoDB · Socket.IO · JWT · Bcrypt · Helmet.js  
+**🔗 Live:** [aethermeet-web.onrender.com](https://aethermeet-web.onrender.com)  
+
+---
+
+### [FiSight](https://github.com/deepanshusingla076/FiSight) — *AI-Powered Financial Assistant*  
+An ML-driven finance tracker offering **budget analytics**, **smart categorization**, and **spending insights**.  
+- Utilizes **FastAPI backend** for AI-based expense recommendations.  
+- Includes data visualization and authentication modules for secure access.  
+**🧰 Tech:** React · FastAPI · MongoDB · Chart.js  
+**🔗 Repo:** [github.com/deepanshusingla076/FiSight](https://github.com/deepanshusingla076/FiSight)  
+
+---
+
+### [Quiz-apc](https://github.com/deepanshusingla076/Quiz-apc) — *Gamified Quiz Platform*  
+An engaging quiz application with **authentication**, **leaderboards**, and **real-time scoring**.  
+- Supports multiple categories, difficulty levels, and result tracking.  
+- Provides analytics dashboard for user performance insights.  
+**🧰 Tech:** React · Node.js · Express · MongoDB  
+**🔗 Repo:** [github.com/deepanshusingla076/Quiz-apc](https://github.com/deepanshusingla076/Quiz-apc)  
+
+---
+
+### [Rizzard Backend](https://github.com/deepanshusingla076/rizzard_backend) — *Scalable Backend API Service*  
+Backend for **Rizzard**, managing **authentication**, **data routing**, and **API integrations**.  
+- Designed REST APIs for modular scalability and security.  
+- Optimized PostgreSQL queries for high-performance data retrieval.  
+**🧰 Tech:** FastAPI · PostgreSQL · Node.js  
+**🔗 Repo:** [github.com/deepanshusingla076/rizzard_backend](https://github.com/deepanshusingla076/rizzard_backend)  
+
+---
+
+### Smart Attendance System — *IoT-Based Face Recognition Attendance*  
+A cloud-integrated attendance tracker using **ESP32-CAM** and **AWS Rekognition**.  
+- Automatically records attendance via facial recognition.  
+- Syncs data to cloud dashboard for administrators.  
+**🧰 Tech:** Python · AWS · ESP32-CAM · OpenCV  
 
 ---
 
 ## 🧩 Open Source & Community  
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/deepanshusingla076/Contributors-badge.jpg/main/Contributor's%20badge.jpg" width="200" alt="GSSoC 2025 Badge" />
+  <img src="https://github.com/deepanshusingla076/deepanshusingla076/blob/main/Contributors%20badge.jpg" width="200" alt="GSSoC 2025 Badge" />
 </p>
 
 - 💻 Contributor at **GSSoC 2025 (GirlScript Summer of Code)**  
-- 🔍 Focused on enhancing backend architecture, API validation, and documentation  
+- 🔍 Focused on backend architecture, validation, and API reliability improvements  
 - 🧠 Passionate about scalable systems and impactful open-source collaboration  
-- 💬 Regularly open issues, submit PRs, and assist in code reviews  
 
 ---
 
@@ -76,11 +110,11 @@
 
 ---
 
-## 💡 Participation & Learning  
+## 🎯 Hackathons & Events  
 
-- 🧩 Participated in multiple hackathons and cloud events  
+- 🧩 Participated in 7+ hackathons and cloud innovation events  
 - ☁️ **Google Cloud Agentic AI Day** — Participant  
-- 🌍 Continuously learning about AI integration, system design, and cloud scaling  
+- 💬 Exploring agentic systems, cloud scaling, and distributed backend design  
 
 ---
 
@@ -106,7 +140,7 @@
 
 ---
 
-## 🌐 Portfolio  
+## 🖥️ Portfolio  
 
 <p align="center">
   <a href="https://deepanshu-singla.vercel.app" target="_blank">
