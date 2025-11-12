@@ -1,21 +1,20 @@
 <h1 align="center">👋 Hey, I'm Deepanshu Singla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+⚡;Backend+Engineer+%7C+FastAPI+%26+Node.js+🚀;Open+Source+Contributor+🌍;Cloud+%26+AI+Tech+Enthusiast+☁️" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+⚡;Backend+Engineer+🚀;Open+Source+Contributor+🌍;Cloud+%26+AI+Enthusiast+☁️" alt="Typing Animation" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-I’m **Deepanshu Singla**, a **Full-Stack Developer** and **Computer Science student at Chitkara University (CGPA: 9.15)**.  
+🎯 Passionate **Full-Stack Developer** and **CSE student (CGPA: 9.15)** at *Chitkara University*, building impactful digital products with modern tech and clean architecture.  
 
-I specialize in building **scalable backend systems** and **intuitive web apps** using **React.js**, **Next.js**, **Node.js**, **Express.js**, **MongoDB**, and **Firebase**.  
-With solid foundations in **Java**, **C++**, **Python**, and **SQL**, I focus on writing clean, performant, and maintainable code.  
-
-Currently, I’m enhancing my **Java DSA** skills and exploring **AI-driven backend systems** to create smarter and faster applications.  
-
-🚀 **Goal:** To craft impactful, production-ready software that merges innovation with reliability.
+- 💡 Expert in **React.js**, **Next.js**, **Node.js**, **Express**, **MongoDB**, and **Firebase**  
+- 🧠 Strong foundation in **Java**, **C++**, **Python**, and **SQL** for robust logic design  
+- 🚀 Currently enhancing **DSA in Java** and exploring **AI-powered web systems**  
+- 🤝 Active **Open Source Contributor (GSSoC 2025)**  
+- 🌱 Always learning, building, and pushing the boundaries of innovation  
 
 ---
 
@@ -38,35 +37,35 @@ Currently, I’m enhancing my **Java DSA** skills and exploring **AI-driven back
 ## 🚀 Featured Projects  
 
 ### [AetherMeet](https://aethermeet-web.onrender.com) — *Real-Time Messaging Platform*  
-Secure, real-time chat platform with ephemeral message storage and strong auth.  
+💬 Secure, ephemeral chat app with real-time sockets, media sharing & auto-cleanup.  
 **Stack:** Node.js · Express · MongoDB · Socket.IO · JWT · Helmet.js  
 **🔗 Live:** [aethermeet-web.onrender.com](https://aethermeet-web.onrender.com)
 
 ---
 
 ### [FiSight](https://github.com/deepanshusingla076/FiSight) — *AI Financial Assistant*  
-ML-powered personal finance tracker offering insights and analytics.  
+🤖 ML-based personal finance tracker offering smart insights & analytics.  
 **Stack:** React · FastAPI · MongoDB  
 **🔗 Repo:** [github.com/deepanshusingla076/FiSight](https://github.com/deepanshusingla076/FiSight)
 
 ---
 
-### [Quiz-apc](https://github.com/deepanshusingla076/Quiz-apc) — *Gamified Quiz Application*  
-Interactive quiz app with authentication, leaderboard, and real-time scoring.  
+### [Quiz-apc](https://github.com/deepanshusingla076/Quiz-apc) — *Gamified Quiz Platform*  
+🎮 Real-time quizzes with leaderboard, scoring, and authentication.  
 **Stack:** React · Node.js · Express · MongoDB  
 **🔗 Repo:** [github.com/deepanshusingla076/Quiz-apc](https://github.com/deepanshusingla076/Quiz-apc)
 
 ---
 
 ### [Rizzard Backend](https://github.com/deepanshusingla076/rizzard_backend) — *API Backend Service*  
-Backend for Rizzard app handling authentication and content APIs.  
+⚙️ Backend for Rizzard app managing auth, content, and MongoDB data ops.  
 **Stack:** FastAPI · Node.js · MongoDB  
 **🔗 Repo:** [github.com/deepanshusingla076/rizzard_backend](https://github.com/deepanshusingla076/rizzard_backend)
 
 ---
 
 ### Smart Attendance System — *IoT Face Recognition*  
-IoT-based face recognition attendance system using ESP32-CAM + AWS.  
+📸 IoT-powered face recognition attendance using ESP32-CAM + AWS.  
 **Stack:** Python · AWS · OpenCV  
 
 ---
@@ -74,12 +73,12 @@ IoT-based face recognition attendance system using ESP32-CAM + AWS.
 ## 🧩 Open Source & Community  
 
 <p align="center">
-  <img src="https://github.com/deepanshusingla076/deepanshusingla076/blob/main/Contributors%20badge.jpg" width="200" alt="GSSoC 2025 Badge" />
+  <img src="https://github.com/deepanshusingla076/deepanshusingla076/blob/main/Contributors-badge.jpg" width="200" alt="GSSoC 2025 Badge" />
 </p>
 
 - 💻 Contributor at **GSSoC 2025 (GirlScript Summer of Code)**  
-- 🧠 Focused on backend architecture, validation, and error handling improvements  
-- 🌍 Active participant in open-source projects and developer communities  
+- 🔧 Focus: backend architecture, data validation, and scalable error handling  
+- 🌍 Passionate about building reliable tools for the open-source ecosystem  
 
 ---
 
@@ -95,9 +94,9 @@ IoT-based face recognition attendance system using ESP32-CAM + AWS.
 
 ## 🏆 Highlights  
 
-- Participated in **7+ hackathons** and **AI/Cloud innovation events**  
-- Attended **Google Cloud Agentic AI Day 2025**  
-- Building and maintaining **open-source backend utilities**  
+- 🏅 Participated in **7+ hackathons** and **AI/Cloud innovation events**  
+- ☁️ Attended **Google Cloud Agentic AI Day 2025**  
+- 💼 Maintaining **open-source backend utilities** and collaborative projects  
 
 ---
 
