@@ -14,8 +14,29 @@
 
 ## 💻 Tech Stack  
 
+### 🖥️ Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,fastapi,mongodb,postgres,redis,java,python,cpp,git,github,aws,docker,linux,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" alt="Frontend Tech" />
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,java" alt="Backend Tech" />
+</p>
+
+### 🗄️ Databases & Caching
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" alt="Databases" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux" alt="DevOps & Cloud" />
+</p>
+
+### 🧰 Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cpp" alt="Tools" />
 </p>
 
 ---
@@ -24,11 +45,11 @@
 
 | Project | Description |
 |----------|-------------|
-| [**FiSight**](https://github.com/deepanshusingla076/FiSight) | 💰 AI-powered financial assistant providing ML-driven insights and smart expense tracking |
-| [**Quiz-apc**](https://github.com/deepanshusingla076/Quiz-apc) | 🧠 Interactive quiz application with authentication, leaderboard, and result tracking |
-| [**Rizzard Backend**](https://github.com/deepanshusingla076/rizzard_backend) | ⚙️ Backend APIs for Rizzard app using Node.js, FastAPI, and PostgreSQL |
-| **Smart Attendance System** | 📸 IoT-based face recognition attendance system using ESP32-CAM + AWS |
-| **Ultrasound Image Segmentation** | 🩺 Deep learning project for medical ultrasound image segmentation using CNNs |
+| [**FiSight**](https://github.com/deepanshusingla076/FiSight) | 💰 **AI-powered financial assistant** offering ML-driven insights and smart expense tracking. Built with React, FastAPI, and MongoDB for intelligent analytics and secure data visualization. |
+| [**AetherMeet**](https://aethermeet-web.onrender.com) | 💬 **Real-Time Ephemeral Messaging Platform** — built with Node.js, Express, MongoDB, and Socket.IO. Features 8+ socket events and 50+ REST APIs for messaging, voting, and media sharing. Optimized with TTL indexes for automatic 30-day cleanup while retaining infinite history. Secured using Helmet.js, JWT + bcrypt auth, rate limiting, sanitization, and file validation. |
+| [**Quiz-apc**](https://github.com/deepanshusingla076/Quiz-apc) | 🧠 **Interactive quiz platform** featuring authentication, leaderboard, and result tracking. Designed with React, Node.js, and MongoDB for smooth performance and scalability. |
+| [**Rizzard Backend**](https://github.com/deepanshusingla076/rizzard_backend) | ⚙️ **Backend APIs** powering the Rizzard app with Node.js, FastAPI, and PostgreSQL. Includes JWT-based authentication and optimized query handling. |
+| **Smart Attendance System** | 📸 **IoT-based face recognition attendance system** using ESP32-CAM and AWS for real-time verification and cloud storage. |
 
 ---
 
@@ -68,10 +89,6 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepanshusingla076&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshusingla076&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://streak-stats.demolab.com?user=deepanshusingla076&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
