@@ -73,7 +73,7 @@
 ## 🧩 Open Source & Community  
 
 <p align="center">
-  <img src="https://github.com/deepanshusingla076/deepanshusingla076/blob/main/Contributors-badge.jpg" width="200" alt="GSSoC 2025 Badge" />
+  <img src="https://raw.githubusercontent.com/deepanshusingla076/Contributors-badge.jpg/main/Contributor's%20badge.jpg" width="200" alt="GSSoC 2025 Badge" />
 </p>
 
 - 💻 Contributor at **GSSoC 2025 (GirlScript Summer of Code)**  
