@@ -12,7 +12,7 @@
 
 - 💡 Expert in **React.js**, **Next.js**, **Node.js**, **Express**, **MongoDB**, and **Firebase**  
 - 🧠 Strong foundation in **Java**, **C++**, **Python**, and **SQL** for robust logic design  
-- 🚀 Currently enhancing **DSA in Java** and exploring **AI-powered web systems**  
+- 🚀 Currently enhancing **DSA in Java** and exploring **AI-powered web systems**
 - 🤝 Active **Open Source Contributor (GSSoC 2025)**  
 - 🌱 Always learning, building, and pushing the boundaries of innovation  
 
